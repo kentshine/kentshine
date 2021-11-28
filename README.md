@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ken_thememegod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ken_thememegod" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ken t shine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ken t shine" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/ken-t-shine-4543331aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ken-t-shine-4543331aa" height="30" width="40" /></a>
 <a href="https://instagram.com/the__flyer__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the__flyer__" height="30" width="40" /></a>
 </p>
 
