@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Cookies 🍪**
 
-- ⚡ Fun fact: **I like Meme's**
+- 🐸 Fun fact: **I like Meme's**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
