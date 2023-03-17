@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ken ;)</h1>
 
-- 🌱 I’m currently learning **Flask & Java**
 
-- 💬 Ask me about **Cookies 🍪**
-
-- ⚡ Fun fact **I like F1**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
