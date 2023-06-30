@@ -3,7 +3,7 @@
     
 - 🔭 I’m currently studying **B.Tech in Computer Science.**
   
-- Fun Fact: I ❤️ Music.
+- Fun Fact: I ❤️ F1.
   <br>
 
 ## Languages and Tools
