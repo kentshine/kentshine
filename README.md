@@ -1,4 +1,4 @@
-# Hi there, I'm Ken<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+# <div align="center">Hi there, I'm Ken<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </div>
 
     
 - 🔭 I’m currently studying **B.Tech in Computer Science.**
