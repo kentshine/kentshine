@@ -64,6 +64,15 @@
 
 </div>
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, Give me a buzz!</b> 😊</em>
+
+<br>
+
+### Give me a buzz
+[<img src='https://img.icons8.com/fluent/50/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ken-t-shine-4543331aa/) 
+[<img src='https://img.icons8.com/fluent/50/000000/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/kenntshine)  
+ 
+
 
 
 
