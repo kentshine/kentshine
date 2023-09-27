@@ -27,10 +27,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
     </a> -->
     &nbsp;&nbsp;&nbsp;
-    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="42px" alt="Java" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
     <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="42px" alt="Flask" />
     </a>
