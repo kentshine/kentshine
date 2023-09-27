@@ -28,7 +28,7 @@
 
 ### Give me a buzz
 [<img src='https://img.icons8.com/fluent/50/000000/github.png' alt='github' height='40'>](https://github.com/kentshine)
-[<img src='https://img.icons8.com/fluent/50/000000/linkedin.png' alt='linkedin' height='40'>]([www.linkedin.com/in/kentshine](https://www.linkedin.com/in/kentshine/)) 
+[<img src='https://img.icons8.com/fluent/50/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/kentshine/) 
 [<img src='https://img.icons8.com/fluent/50/000000/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/kenntshine)  
 [<img src='https://img.icons8.com/fluent/50/000000/twitter.png' alt='twitter' height='40'>](https://twitter.com/kenntshine)  
 
