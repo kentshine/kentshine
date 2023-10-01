@@ -3,9 +3,10 @@
 <br/>
 
 ## Profile 📝
-- 🔭 I’m currently studying B.Tech in Computer Science.
-- 🌱 I’m currently learning Js
-- I ❤️ F1.
+- 🔭 I’m currently studying B.Tech in **Computer Science**
+- 🌱 I’m currently learning **Js**
+- 🏎️ I watch F1
+
 
 <br/>
 
