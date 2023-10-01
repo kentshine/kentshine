@@ -2,7 +2,7 @@
 
 <br/>
 
-## Bio
+## Bio 📝
 - 🔭 I’m currently studying B.Tech in Computer Science.
 - I ❤️ F1.
 
