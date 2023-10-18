@@ -1,14 +1,4 @@
-## Hi there, I'm [Ken](https://github.com/kentshine) !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<br/>
-
-## Profile 📝
-- 🔭 I’m currently studying B.Tech in **Computer Science**
-- 🌱 I’m currently learning **Js**
-- 🏎️ I watch F1
-
-
-<br/>
 
 ### Languages and Tools  🧑‍💻 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="45px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
