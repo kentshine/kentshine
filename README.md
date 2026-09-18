@@ -1,18 +1,18 @@
+# Hi, I'm Ken 👋
 
+**Software Engineer | .NET | FinTech**
 
-### Languages and Tools  🧑‍💻 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="45px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://html.com/" target="_blank"> <img align="left" alt="Html" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"> </a>
-<a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"> <img align="left" alt="css" height ="45px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"> </a>
+### 🧑‍💻 Languages & Tools
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="45px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='45px'/> </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,ts,react,nextjs,html,css,tailwind,flask,mysql,postgres,git,github,linux,aws" />
+</p>
 
+### 📫 Let's Connect
 
+<p align="left">
+  <a href="https://github.com/">GitHub</a> ·
+  <a href="https://www.linkedin.com/">LinkedIn</a>
+</p>
 
-<br/>
-<br/>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, Give me a buzz!</b> 😊</em>
-
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
