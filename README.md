@@ -13,11 +13,6 @@
 <br/>
 <br/>
 
-## Stats
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kentshine&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true"  alt="Ajmal's github stats" /></a>|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentshine&layout=compact&theme=midnight-purple&hide_border=True" /></a> |
-| ------------- | ------------- |
-<br/>
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, Give me a buzz!</b> 😊</em>
 
 
